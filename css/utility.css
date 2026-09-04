@@ -1,0 +1,76 @@
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.border {
+    border: 2px solid red;
+    margin: 3px;
+}
+
+.bg-black {
+    background-color: black;
+    color: white;
+}
+
+.invert {
+    filter: invert(1);
+}
+
+.bg-grey {
+    background-color: #121212;
+}
+
+.rounded {
+    border-radius: 7px;
+}
+
+.m-1 {
+    margin: 5px;
+}
+
+.p-1 {
+    padding: 10px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+    /* For horizontal scrollbars */
+}
+
+/* The track (background behind the handle) */
+::-webkit-scrollbar-track {
+    background: #1a202c;
+    border-radius: 8px;
+}
+
+/* The scrollbar handle (thumb) */
+::-webkit-scrollbar-thumb {
+    background: #4a5568;
+    border-radius: 8px;
+    border: 2px solid #1a202c;
+    /* Creates a padding effect around thumb */
+}
+
+/* Hover state for the handle */
+::-webkit-scrollbar-thumb:hover {
+    background: #718096;
+}
+
+/* Active/clicking state for the handle */
+::-webkit-scrollbar-thumb:active {
+    background: #a0aec0;
+}
+
+/* Corner junction between vertical and horizontal scrollbars */
+::-webkit-scrollbar-corner {
+    background: #1a202c;
+}
