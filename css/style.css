@@ -307,6 +307,8 @@ body {
         z-index: 1;
         width: 370px;
         padding: 0;
+        position: fixed;
+        width: 100vw;
     }
 
     .left .close {
@@ -323,11 +325,17 @@ body {
 
     .right {
         width: 100vw;
+        position: fixed;
+    }
+
+    .songList ul {
+        padding: 4px 13px;
     }
 
     .playbar {
         width: calc(100vw - 60px);
-        bottom: 94px;
+        bottom: 16px;
+        left: 20px;
     }
 
     .hamburger {
@@ -337,8 +345,13 @@ body {
     .trendingSongs .card {
         width: 44vw;
     }
-    .trendingSongs{
-         height: 100vh;
+
+    .trendingSongs {
+        height: 100vh;
+    }
+
+    .trendingSongs h1 {
+        margin:17px 0;
     }
 
     .cardContainer {
@@ -370,7 +383,8 @@ body {
     .songtime {
         width: auto;
     }
-    .library{
+
+    .library {
         height: 83vh;
     }
 }
