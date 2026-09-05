@@ -1,0 +1,105 @@
+{
+    "Arijit": {
+        "title": "Arijit Singh Hits",
+        "description": "Best soulful tracks of Arijit Singh",
+        "songs": [
+            "Apna Bana Le.mp3",
+            "Kesariya - Brahmāstra.mp3",
+            "KHAIRIYAT (BONUS TRACK)  CHHICHHORE .mp3",
+            "Sajni (Song)_ Arijit Singh, Ram Sampath  Laapataa Ladies   Aamir Khan Productions.mp3",
+            "Tum Hi Ho Aashiqui 2 128 Kbps.mp3"
+        ]
+    },
+    "cs": {
+        "title": "CS Hits",
+        "description": "Coding beats and synth vibe",
+        "songs": [
+            "Billie Eilish - Ocean Eyes (Lyrics).mp3",
+            "T3NZU - Drive Forever - Copy.mp3",
+            "T3NZU - Drive Forever.mp3"
+        ]
+    },
+    "Honey": {
+        "title": "Yo Yo Honey Singh",
+        "description": "Classic and party hits by Honey Singh",
+        "songs": [
+            "Angreji Beat International Villager 128 Kbps.mp3",
+            "Blue Eyes Yo Yo Honey Singh 128 Kbps.mp3",
+            "Brown Rang.mp3",
+            "Desi Kalakaar Yo Yo Honey Singh 128 Kbps.mp3",
+            "Dheere Dheere Yo Yo Honey Singh 128 Kbps.mp3",
+            "Love Dose Extended.mp3",
+            "Party All Night Boss 128 Kbps.mp3"
+        ]
+    },
+    "Karan Aujla": {
+        "title": "Karan Aujla",
+        "description": "Punjabi bangers and chartbusters",
+        "songs": [
+            "For A Reason.mp3",
+            "LOW FADE.mp3",
+            "SOFTLY.mp3",
+            "Winning Speech.mp3"
+        ]
+    },
+    "ncs": {
+        "title": "NoCopyrightSounds",
+        "description": "Royalty free beats and copyright-free tunes",
+        "songs": [
+            "Ameryh - Deep End.mp3"
+        ]
+    },
+    "Phonk": {
+        "title": "Phonk Vibes",
+        "description": "Slowed, reverb, and drift phonk tracks",
+        "songs": [
+            "FUNKED UP (SLOWED).mp3",
+            "GigaChad_Theme.mp3",
+            "glory_phonk_brazil.mp3",
+            "Metamorphosis-Slowed-Reverb.mp3",
+            "SEM CONTROLE.mp3"
+        ]
+    },
+    "Shreya": {
+        "title": "Shreya Ghoshal",
+        "description": "Melodious tracks by Shreya Ghoshal",
+        "songs": [
+            "a_ KALYANI (with Shreya Ghoshal).mp3",
+            "Deewani Mastani.mp3",
+            "Jadu Hai Nasha Hai  Shreya Ghoshal.mp3",
+            "Manwa Laage Happy New Year .mp3",
+            "Mere Dholna  Bhool Bhulaiyaa.mp3"
+        ]
+    },
+    "Trending 2026": {
+        "title": "Trending 2026",
+        "description": "Top chartbusters and trending tracks",
+        "songs": [
+            "Badshah.mp3",
+            "BOYFRIEND KARAN AUJLA SUNANDA .mp3",
+            "Gucci.mp3",
+            "Ik Mulaqaat.mp3",
+            "Ishq de Fanniyar.mp3",
+            "Ishq Jalakar Dhurandhar 128 Kbps.mp3",
+            "Lutt Le Gaya Dhurandhar 320 Kbps.mp3",
+            "O Sanam.mp3",
+            "Oh Ho Ho Ho.mp3",
+            "Shararat Dhurandhar 320 Kbps.mp3",
+            "Title Track Dhurandhar 320 Kbps.mp3"
+        ]
+    },
+    "Tum mile": {
+        "title": "Tum Mile & Romantic",
+        "description": "Romantic classics and chill vibes",
+        "songs": [
+            "Anuv Jain - JO TUM MERE HO (Official Video).mp3",
+            "Dil Ibaadat  Tum Mile  KK  Emraan Hashmi .mp3",
+            "Gehra Hua Dhurandhar 320 Kbps.mp3",
+            "Imran khan - Bewafa (Official Music Video).mp3",
+            "Kaise Mujhe Ghajini 320 Kbps.mp3",
+            "Mann Mera Gajendra Verma.mp3",
+            "Saiyaara Title Song.mp3",
+            "Shaky.mp3"
+        ]
+    }
+}
