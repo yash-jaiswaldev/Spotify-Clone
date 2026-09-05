@@ -327,7 +327,7 @@ body {
     }
 
     .right {
-        padding: fixed;
+        position:fixed;
         width: 100vw;
     }
 
@@ -338,7 +338,7 @@ body {
     .playbar {
         width: calc(100vw - 60px);
         bottom: 3px;
-        left: 20px;
+        left: 19px;
     }
 
     .songinfo {
@@ -369,8 +369,8 @@ body {
     }
 
     .play {
-        top: 146px;
-        right: 11px;
+        top: 346px;
+        right: 16px;
     }
 
     .cardContainer {
@@ -378,6 +378,7 @@ body {
         justify-content: center;
         align-items: center;
         gap: 20px;
+        max-height: 52vh;
     }
 
     .card {
@@ -398,6 +399,7 @@ body {
     .songinfo,
     .songtime {
         width: auto;
+        font-size: small;
     }
 
     .library {
