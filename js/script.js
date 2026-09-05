@@ -51,7 +51,7 @@ async function getSongs(folder) {
                 <div>Artist</div>
             </div>
             <div class="playnow">
-                Play Now
+                <h3>Play Now</h3>
                 <img class="invert" src="img/play.svg" alt="">
             </div>
         </li>`;

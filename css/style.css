@@ -80,10 +80,8 @@ body {
 
 .cardContainer {
     display: flex;
-    margin: 30px;
     gap: 10px;
     flex-wrap: wrap;
-    max-height: 50vh;
     overflow-y: auto;
 }
 
@@ -101,6 +99,7 @@ body {
 }
 
 .card {
+    width: 200px;
     position: relative;
     transition: all 1.5s;
     background-color: grey;
@@ -318,24 +317,37 @@ body {
         right: 22px;
     }
 
+    .heading {
+        gap: 10px;
+        display: flex;
+    }
 
     .seekbar {
         width: calc(100vw - 70px)
     }
 
     .right {
+        padding: fixed;
         width: 100vw;
-        position: fixed;
     }
 
     .songList ul {
-        padding: 4px 13px;
+        padding: 4px 19px;
     }
 
     .playbar {
         width: calc(100vw - 60px);
-        bottom: 16px;
+        bottom: 3px;
         left: 20px;
+    }
+
+    .songinfo {
+        text-align: center;
+    }
+
+    .playnow h3 {
+        top: 5px;
+        position: relative;
     }
 
     .hamburger {
@@ -343,30 +355,34 @@ body {
     }
 
     .trendingSongs .card {
-        width: 44vw;
+        width: 87vw;
+        left: -8px;
     }
 
     .trendingSongs {
         height: 100vh;
+        overflow-y: auto;
     }
 
     .trendingSongs h1 {
-        margin:17px 0;
+        margin: 17px 0;
+    }
+
+    .play {
+        top: 146px;
+        right: 11px;
     }
 
     .cardContainer {
-        margin: 0;
         display: flex;
         justify-content: center;
-        flex-direction: row;
-        flex-wrap: wrap;
-        overflow-x: hidden;
-        max-width: 100%;
+        align-items: center;
+        gap: 20px;
     }
 
     .card {
-        max-width: 45%;
-        box-sizing: border-box;
+        max-width: 375px;
+        width: 98%;
     }
 
     .right {
@@ -392,5 +408,15 @@ body {
 @media (max-width : 400px) {
     .cardContainer .card {
         width: 84vw;
+    }
+
+    .songinfo {
+        margin-top: -12px;
+        margin-bottom: -16px;
+    }
+
+    .songbuttons {
+        margin-bottom: -17px;
+        margin-top: 5px;
     }
 }
