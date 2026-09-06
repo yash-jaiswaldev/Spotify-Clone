@@ -104,7 +104,7 @@ async function displayAlbums() {
 
 async function main() {
     await displayAlbums();
-    await getSongs("songs/cs");
+    await getSongs("songs/Karan Aujla");
     if (songs.length > 0) {
         playMusic(songs[0], true);
     }

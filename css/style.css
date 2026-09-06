@@ -422,6 +422,9 @@ input[type="range"] {
     .cardContainer .card {
         width: 84vw;
     }
+    .cardContainer{
+        height: 50vh;
+    }
 
     .songinfo {
         margin-top: -12px;
@@ -447,8 +450,9 @@ input[type="range"] {
     }
 
     .footer {
-        bottom: 45px;
+        position: static;
         gap: 12px;
         font-size: 7px;
     }
+    
 }
