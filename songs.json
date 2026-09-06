@@ -10,9 +10,9 @@
             "Tum Hi Ho Aashiqui 2 128 Kbps.mp3"
         ]
     },
-    "cs": {
-        "title": "CS Hits",
-        "description": "Coding beats and synth vibe",
+    "Aesthetic Hits": {
+        "title": "Dopamine Brusher",
+        "description": "High Beats",
         "songs": [
             "Billie Eilish - Ocean Eyes (Lyrics).mp3",
             "T3NZU - Drive Forever.mp3",
@@ -42,7 +42,7 @@
             "Winning Speech.mp3"
         ]
     },
-    "ncs": {
+    "No CopyRight Songs": {
         "title": "Relaxing Beats",
         "description": "Royalty free beats and copyright-free tunes",
         "songs": [
@@ -106,14 +106,13 @@
     "title": "Evergreen Bhakti Hits",
     "description": "Bhajans That will Make you Lost in Devotion",
     "songs": [
-      "Ajit_Kadhade_-_Shree_Ganpati_Aarti_Sukhkarta_Dukhharta_(mp3.pm).mp3",
-      "Gulshan_Kumar_-_Sheree_Hanuman_Chalisa_(mp3.pm).mp3",
-      "Jode Jode Falwa Suruj Dev Tiwai Jal Beech Khada Hoi Chadhawele-BiharMasti.IN.mp3",
+      "Gulshan_Kumar-Shri_Hanuman_Chalisa.mp3",
+      "Jode Jode Falwa.mp3",
       "O Aaye Tere Bhawan.mp3",
       "Ram Siya Ram Adipurush 128 Kbps.mp3",
       "Shri Krishna Govind Hare Murari Jubin Nautiyal 320 Kbps.mp3",
-      "Vasantrao_Deshpande_Rani_Varma_-_Tu_Sukhkarta_Tu_Dukh_Harta_(mp3.pm).mp3",
-      "राधे राधे बरसन वाली राधे ORIGINAL RADHE RADHE BARSANE WALI RADHE  84 KOS YATRA VIPUL MUSIC.mp3"
+      "Shri Ganesh Aarti.mp3",
+      "राधे राधे बरसन वाली राधे .mp3"
     ]
   }
 }

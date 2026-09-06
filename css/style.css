@@ -102,7 +102,7 @@ body {
     width: 200px;
     position: relative;
     transition: all 1.5s;
-    background-color: grey;
+    background-color: rgba(255, 255, 255, 0.05);
 }
 
 .card:hover {
@@ -238,6 +238,12 @@ body {
     cursor: pointer;
 }
 
+input[type="range"] {
+    accent-color: #1DB954;
+    /* Sabse easy tareeka - Spotify Green color ke liye */
+    cursor: pointer;
+}
+
 .circle {
     width: 13px;
     height: 13px;
@@ -310,6 +316,11 @@ body {
         width: 100vw;
     }
 
+    .footer {
+        gap: 18px;
+        font-size: 8px;
+    }
+
     .left .close {
         display: block;
         position: absolute;
@@ -327,7 +338,7 @@ body {
     }
 
     .right {
-        position:fixed;
+        position: fixed;
         width: 100vw;
     }
 
@@ -378,7 +389,7 @@ body {
         justify-content: center;
         align-items: center;
         gap: 20px;
-        max-height: 52vh;
+        max-height: 55vh;
     }
 
     .card {
@@ -420,5 +431,24 @@ body {
     .songbuttons {
         margin-bottom: -17px;
         margin-top: 5px;
+    }
+
+    .loginbtn {
+        width: 92px;
+    }
+
+    .play {
+        top: 281px;
+        right: 11px;
+    }
+
+    .songtime {
+        font-size: x-small;
+    }
+
+    .footer {
+        bottom: 45px;
+        gap: 12px;
+        font-size: 7px;
     }
 }
