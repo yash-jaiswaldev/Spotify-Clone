@@ -422,7 +422,8 @@ input[type="range"] {
     .cardContainer .card {
         width: 84vw;
     }
-    .cardContainer{
+
+    .cardContainer {
         height: 50vh;
     }
 
@@ -454,5 +455,5 @@ input[type="range"] {
         gap: 12px;
         font-size: 7px;
     }
-    
+
 }
