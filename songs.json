@@ -37,6 +37,7 @@
         "description": "Punjabi bangers and chartbusters",
         "songs": [
             "For A Reason.mp3",
+            "BOYFRIEND KARAN AUJLA SUNANDA .mp3",
             "LOW FADE.mp3",
             "SOFTLY.mp3",
             "Winning Speech.mp3"
@@ -71,13 +72,23 @@
             "Mere Dholna  Bhool Bhulaiyaa.mp3"
         ]
     },
+    "South Hits": {
+        "title": "South Hits",
+        "description": "Top Trending Hits of South",
+        "songs": [
+         "Chuttamalle - Devara.mp3",
+         "Kanaa - Othaiyadi Pahayila.mp3"
+        ]
+    },
     "Trending 2026": {
         "title": "Trending 2026",
         "description": "Top chartbusters and trending tracks",
         "songs": [
             "Badshah.mp3",
-            "BOYFRIEND KARAN AUJLA SUNANDA .mp3",
             "Gucci.mp3",
+            "Burjkhalifa.mp3",
+            "Dil Chori.mp3",
+            "Naah Goriye -Bala.mp3",
             "Ik Mulaqaat.mp3",
             "Ishq de Fanniyar.mp3",
             "Ishq Jalakar Dhurandhar 128 Kbps.mp3",
@@ -86,7 +97,8 @@
             "Oh Ho Ho Ho.mp3",
             "Shararat Dhurandhar 320 Kbps.mp3",
             "Title Track Dhurandhar 320 Kbps.mp3",
-            "Sheesha (Aakhya Mai Aakh Ghali Jo Bairan).mp3"
+            "Sheesha (Aakhya Mai Aakh Ghali Jo Bairan).mp3",
+            "Manike.mp3"
         ]
     },
     "Tum mile": {
@@ -103,17 +115,17 @@
             "Shaky.mp3"
         ]
     },
-  "Bhakti": {
-    "title": "Evergreen Bhakti Hits",
-    "description": "Bhajans That will Make you Lost in Devotion",
-    "songs": [
-      "Gulshan_Kumar-Shri_Hanuman_Chalisa.mp3",
-      "Jode Jode Falwa.mp3",
-      "O Aaye Tere Bhawan.mp3",
-      "Ram Siya Ram Adipurush 128 Kbps.mp3",
-      "Shri Krishna Govind Hare Murari Jubin Nautiyal 320 Kbps.mp3",
-      "Shri Ganesh Aarti.mp3",
-      "राधे राधे बरसन वाली राधे .mp3"
-    ]
-  }
+    "Bhakti": {
+        "title": "Evergreen Bhakti Hits",
+        "description": "Bhajans That will Make you Lost in Devotion",
+        "songs": [
+            "Gulshan_Kumar-Shri_Hanuman_Chalisa.mp3",
+            "Jode Jode Falwa.mp3",
+            "O Aaye Tere Bhawan.mp3",
+            "Ram Siya Ram Adipurush 128 Kbps.mp3",
+            "Shri Krishna Govind Hare Murari Jubin Nautiyal 320 Kbps.mp3",
+            "Shri Ganesh Aarti.mp3",
+            "राधे राधे बरसन वाली राधे .mp3"
+        ]
+    }
 }
