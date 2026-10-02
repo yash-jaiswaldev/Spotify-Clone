@@ -155,6 +155,16 @@ async function main() {
             playMusic(songs[0]);
         }
     });
+    currentSong.addEventListener("ended", () => {
+        let currentTrack = decodeURIComponent(currentSong.src.split("/").pop()).trim();
+        let index = songs.indexOf(currentTrack);
+
+        if (index !== -1 && (index + 1) < songs.length) {
+            playMusic(songs[index + 1]);
+        } else {
+            playMusic(songs[0]);
+        }
+    });
 
     document.querySelector(".range input").addEventListener("change", (e) => {
         currentSong.volume = parseInt(e.target.value) / 100;
